@@ -1,0 +1,30 @@
+{
+  "name": "simpleeditor",
+  "version": "1.0.0",
+  "description": "a simple php editor",
+  "main": "src/index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zzzhui/simpleEdit.git"
+  },
+  "keywords": [
+    "php",
+    "editor"
+  ],
+  "author": "Zzzhui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zzzhui/simpleEdit/issues"
+  },
+  "homepage": "https://liuxhui.cn",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-csso": "^3.0.0",
+    "gulp-less": "^3.3.2",
+    "gulp-uglify": "^3.0.0",
+    "pump": "^1.0.2"
+  }
+}
